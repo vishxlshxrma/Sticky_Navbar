@@ -21,7 +21,7 @@ A simple webpage with a **sticky navigation bar** that becomes fixed when the us
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Sticky\ Navbar\ \(HTML\ :\ Javascript\)
+   cd Sticky\ Navbar\
    ```
 3. Open `index.html` in a web browser.
 
